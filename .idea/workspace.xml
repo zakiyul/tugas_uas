@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4044841d-62eb-4290-a314-3b23fdd4f2fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V3aZNmK7RRhvUUmLewbmvKXtXl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../realEstate/untitled/src/com/ilkomC/Main.java" />
+  </component>
+  <component name="RunManager" selected="Application.menuAngsuran">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ilkomC.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ilkomC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="menuAngsuran" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.menuAngsuran" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.tees" />
+      <module name="untitled104" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.menuAngsuran" />
+        <item itemvalue="Application.tees" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4044841d-62eb-4290-a314-3b23fdd4f2fe" name="Default Changelist" comment="" />
+      <created>1576484287137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576484287137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="429" y="106" width="497" height="545" key="#Main_(1)" timestamp="1578884952856">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="429" y="106" width="497" height="545" key="#Main_(1)/0.0.1366.768@0.0.1366.768" timestamp="1578884952856" />
+    <state x="519" y="198" width="318" height="362" key="FileChooserDialogImpl" timestamp="1578884877951">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="519" y="198" width="318" height="362" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1578884877951" />
+    <state width="1330" height="456" key="GridCell.Tab.0.bottom" timestamp="1579009783979">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1330" height="456" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1579009783979" />
+    <state width="1330" height="456" key="GridCell.Tab.0.center" timestamp="1579009783977">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1330" height="456" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1579009783977" />
+    <state width="1330" height="456" key="GridCell.Tab.0.left" timestamp="1579009783977">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1330" height="456" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1579009783977" />
+    <state width="1330" height="456" key="GridCell.Tab.0.right" timestamp="1579009783978">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1330" height="456" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1579009783978" />
+    <state x="366" y="210" key="com.intellij.ide.util.TipDialog" timestamp="1578969352969">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="366" y="210" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1578969352969" />
+    <state x="99" y="6" width="1157" height="748" key="new project wizard" timestamp="1576561445748">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="99" y="6" width="1157" height="748" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1576561445748" />
+  </component>
+</project>
